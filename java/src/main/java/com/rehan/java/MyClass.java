@@ -29,6 +29,9 @@ public static void main(String[] arg){
         obj.MyClass();
 
 }
+public void rehanGit(){
+System.out.println("Welcome to git....");
+}
 
 
 }
